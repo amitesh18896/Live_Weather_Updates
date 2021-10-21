@@ -26,10 +26,10 @@ you need to connect to their paid services to work with
 the weather APIs. But if you use your web scraping skills, it will be free.
 
 
-In the above code, we are searching for a city on Google,
+In the  code, we are searching for a city on Google,
 and then we are scraping the data about that particular city concerning 
 location, time, info, and weather.
-After running the above Python code you will see an output as shown below.
+After running the  Python code you will see an output as shown below.
 
 
 Enter the Name of Any City >>  New Delhi
